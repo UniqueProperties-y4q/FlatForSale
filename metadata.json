@@ -1,0 +1,6 @@
+{
+  "name": "Luxury 3 BHK Pune Flat - Digital Pamphlet & Walkthrough",
+  "description": "Interactive digital property pamphlet and virtual walkthrough for an exclusive 3 BHK residential flat in Central Pune featuring 1,437 sq ft usable space, attached terrace, and covered car parking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
